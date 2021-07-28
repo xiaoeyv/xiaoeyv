@@ -1,1 +1,3 @@
-<meta http-equiv="refresh" content="5;url=index.php">
+<script src="text/JavaScript">
+	window.location.href="index.php";
+</script>
